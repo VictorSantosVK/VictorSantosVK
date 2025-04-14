@@ -18,4 +18,4 @@ Tecnologias Usadas no meu dia
 
 </div></br>
 
-Estudante de TI no segundo período do curso de Análise e Desenvolvimento de Sistemas no IFPE.
+Estudante de TI no terceiro período do curso de Análise e Desenvolvimento de Sistemas no IFPE.
